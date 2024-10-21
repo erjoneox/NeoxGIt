@@ -1,0 +1,2 @@
+# NeoxGIt
+Configurating git.
